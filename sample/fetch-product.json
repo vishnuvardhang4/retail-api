@@ -1,6 +1,32 @@
 {"url": "http://localhost:3000/product",
 "method": "post",
 
+"payload": {
+    "capacity": [
+        128
+    ],
+    "brand": [
+        "samsung"
+    ],
+    "material": [
+        "metal"
+    ],
+    "color": [
+        "red"
+    ],
+    "price": [
+        100000
+    ],
+    "type": [
+        "windows"
+    ],
+    "order": {
+        "column": "price",
+        "action": "DESC"
+    },
+    "page": 1
+},
+
 "response": {
     "data": [
         {
