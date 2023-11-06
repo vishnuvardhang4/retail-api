@@ -1,0 +1,178 @@
+{"url": "http://localhost:3000/product",
+"method": "post",
+
+"response": {
+    "data": [
+        {
+            "name": "laptop",
+            "id": 29,
+            "pid": 27,
+            "capacity": 128,
+            "unit": "gb",
+            "brand": "samsung",
+            "material": "metal",
+            "color": "red",
+            "price": 100000,
+            "description": "i7 mobile processor",
+            "type": "windows",
+            "images": [
+                {
+                    "path": "D:projects\retail-domainstorage334dddf6-1790-427e-9be0-a196982b4fe5.png",
+                    "alt": "alt"
+                }
+            ]
+        },
+        {
+            "name": "laptop",
+            "id": 28,
+            "pid": 27,
+            "capacity": 128,
+            "unit": "gb",
+            "brand": "samsung",
+            "material": "metal",
+            "color": "red",
+            "price": 80000,
+            "description": "i5 mobile processor",
+            "type": "windows",
+            "images": []
+        },
+        {
+            "name": "mobile2",
+            "id": 24,
+            "pid": 26,
+            "capacity": 128,
+            "unit": "gb",
+            "brand": "samsung",
+            "material": "glass",
+            "color": "red",
+            "price": 35200,
+            "description": "sd870 mobile",
+            "type": "android",
+            "images": []
+        },
+        {
+            "name": "computer",
+            "id": 20,
+            "pid": 7,
+            "capacity": 128,
+            "unit": "gb",
+            "brand": "samsung",
+            "material": "glass",
+            "color": "red",
+            "price": 35000,
+            "description": "sd870 mobile",
+            "type": "android",
+            "images": []
+        },
+        {
+            "name": "mobile1",
+            "id": 21,
+            "pid": 11,
+            "capacity": 128,
+            "unit": "gb",
+            "brand": "samsung",
+            "material": "glass",
+            "color": "red",
+            "price": 35000,
+            "description": "sd870 mobile",
+            "type": "android",
+            "images": []
+        },
+        {
+            "name": "mobile2",
+            "id": 22,
+            "pid": 26,
+            "capacity": 128,
+            "unit": "gb",
+            "brand": "samsung",
+            "material": "glass",
+            "color": "red",
+            "price": 35000,
+            "description": "sd870 mobile",
+            "type": "android",
+            "images": []
+        },
+        {
+            "name": "pendrive",
+            "id": 18,
+            "pid": 1,
+            "capacity": 16,
+            "unit": "gb",
+            "brand": "Sony",
+            "material": "stel",
+            "color": "blue",
+            "price": 320,
+            "description": "16GB pendrive for store/backup data",
+            "type": "3.0",
+            "images": [
+                {
+                    "path": "ksdkd",
+                    "alt": "3"
+                },
+                {
+                    "path": "vishnu",
+                    "alt": "vishnu"
+                }
+            ]
+        },
+        {
+            "name": "pendrive",
+            "id": 1,
+            "pid": 1,
+            "capacity": 8,
+            "unit": "gb",
+            "brand": "Sony",
+            "material": "steel",
+            "color": "silver",
+            "price": 230,
+            "description": "8GB pendrive for store/backup data",
+            "type": "2.0",
+            "images": [
+                {
+                    "path": "D:projects\retail-domainstorage9c06d7aa-fcba-459a-8dc8-25ec82214836.png",
+                    "alt": "alt"
+                },
+                {
+                    "path": "D:\\projects\\retail-domain\\storage\\e1eb0c3d-e3f6-44ed-b58e-14ab2637cb5a.png",
+                    "alt": "alt"
+                },
+                {
+                    "path": "D:projects\retail-domainstorage5ae220d4-561d-4418-b50d-6c850b3c2797.png",
+                    "alt": "alt"
+                },
+                {
+                    "path": "D:projects\retail-domainstoragecbb32272-e782-4eec-8d13-5db377f7b328.png",
+                    "alt": "alt"
+                }
+            ]
+        },
+        {
+            "name": "pendrive",
+            "id": 17,
+            "pid": 1,
+            "capacity": 12,
+            "unit": "gb",
+            "brand": "Sony",
+            "material": "steel",
+            "color": "black",
+            "price": 220,
+            "description": "8GB pendrive for store/backup data",
+            "type": "2.1",
+            "images": [
+                {
+                    "path": "vishnu",
+                    "alt": ""
+                },
+                {
+                    "path": "new",
+                    "alt": ""
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "page": 1
+    },
+    "status": 200,
+    "message": "success"
+}}

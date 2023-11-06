@@ -1,0 +1,25 @@
+{
+    "url": "http://localhost:3000/product/create",
+    "payload": {
+        "record": {
+                "products": {
+                    "name": "laptop"
+                },
+                "variants": {
+                    "capacity": "128",
+                    "unit": "gb",
+                    "brand": "samsung",
+                    "material": "metal",
+                    "color": "red",
+                    "price": "100000",
+                    "description": "i7 mobile processor",
+                    "type": "windows"
+                }
+            }
+    },
+
+    "response" : {
+        "status": 201,
+        "message": "success"
+    }
+}

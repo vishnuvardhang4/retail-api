@@ -1,0 +1,12 @@
+{
+    "url": "http://localhost:3000/product/create",
+    "payload": {
+        "file": "<file>",
+        "payload": "{\"vid\":29,\"order\":1}"
+    },
+
+    "response" : {
+        "status": 200,
+        "massage": "File uploaded!"
+    }
+}
